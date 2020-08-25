@@ -1,7 +1,7 @@
 {
-  "name": "birthday",
+  "name": "ulangtahunapp",
   "version": "1.0.0",
-  "description": "Birthday greetings..",
+  "description": "Ulang tahun apps",
   "main": " ",
   "scripts": {
     "server-node": "http-server -p 8081"
@@ -13,13 +13,13 @@
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "Renhakku",
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/ayusharma/birthday/issues"
   },
   "homepage": "https://github.com/ayusharma/birthday#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.12.3"
   }
 }
